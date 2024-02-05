@@ -14,7 +14,7 @@
  */
 
 const file_name = __dirname + __filename
-const author = "@nabilanavab"
+const author = "@fxsil"
 
 const fs = require('fs');
 const path = require('path');
